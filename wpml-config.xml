@@ -1,0 +1,16 @@
+<wpml-config>  
+    <admin-texts>
+        <key name="br-wish_list-options">
+            <key name="text_settings">
+                <key name="wish_list" />
+                <key name="wait_list" />
+                <key name="show_wish" />
+                <key name="show_wait" />
+                <key name="cookie_use_text" />
+                <key name="cookie_use_button" />
+                <key name="wishlist_empty" />
+                <key name="waitlist_empty" />
+            </key>
+        </key>
+    </admin-texts> 
+</wpml-config>

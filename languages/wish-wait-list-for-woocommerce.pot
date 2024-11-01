@@ -1,0 +1,480 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Wishlist and Waitlist for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-10 08:44+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.1"
+
+#. Name of the plugin
+#: main.php:44
+msgid "Wishlist and Waitlist for WooCommerce"
+msgstr ""
+
+#: main.php:45
+msgid "Wish/Wait List"
+msgstr ""
+
+#: main.php:142
+msgid ""
+"<strong>Please update all BeRocket plugins to the most recent version. "
+"Wishlist and Waitlist for WooCommerce is not working correctly with older "
+"versions.</strong>"
+msgstr ""
+
+#: main.php:491 main.php:901
+msgid "Wish"
+msgstr ""
+
+#: main.php:492 main.php:900
+msgid "Wait"
+msgstr ""
+
+#: main.php:553
+msgid "Products in your lists"
+msgstr ""
+
+#: main.php:558
+msgid "Remove products from your wait list"
+msgstr ""
+
+#: main.php:565
+msgid "Remove products from your wish list"
+msgstr ""
+
+#: main.php:711
+msgid "General"
+msgstr ""
+
+#: main.php:715
+msgid "Style"
+msgstr ""
+
+#: main.php:719
+msgid "Text"
+msgstr ""
+
+#: main.php:723
+msgid "Custom CSS/JavaScript"
+msgstr ""
+
+#: main.php:728
+msgid "License"
+msgstr ""
+
+#: main.php:734
+msgid "Wish Page"
+msgstr ""
+
+#: main.php:741
+msgid "Wait Page"
+msgstr ""
+
+#: main.php:748
+msgid "Disable wish list button"
+msgstr ""
+
+#: main.php:754
+msgid "Disable wait list button"
+msgstr ""
+
+#: main.php:766
+msgid "Wish list button icon"
+msgstr ""
+
+#: main.php:772
+msgid "Wait list button icon"
+msgstr ""
+
+#: main.php:778
+msgid "Update status icon"
+msgstr ""
+
+#: main.php:790
+msgid "Text before wish list"
+msgstr ""
+
+#: main.php:796
+msgid "Text before wait list"
+msgstr ""
+
+#: main.php:802
+msgid "Text on button to show all products in wish list"
+msgstr ""
+
+#: main.php:808
+msgid "Text on button to show all products in wait list"
+msgstr ""
+
+#: main.php:814
+msgid "Product instock Email FROM name"
+msgstr ""
+
+#: main.php:820
+msgid "Product instock Email FROM Email"
+msgstr ""
+
+#: main.php:826
+msgid "Product instock Email subject"
+msgstr ""
+
+#: main.php:832
+msgid "Product instock Email message"
+msgstr ""
+
+#: main.php:844
+msgid "Disable Font Awesome"
+msgstr ""
+
+#: main.php:848
+msgid ""
+"Don't load Font Awesome css files on site front end. Use it only if you "
+"don't use Font Awesome icons in widgets or your theme has Font Awesome."
+msgstr ""
+
+#: main.php:851
+msgid "Font Awesome Version"
+msgstr ""
+
+#: main.php:855
+msgid "Font Awesome 4"
+msgstr ""
+
+#: main.php:856
+msgid "Font Awesome 5"
+msgstr ""
+
+#: main.php:859
+msgid ""
+"Version of Font Awesome that will be used on front end. Please select "
+"version that you have in your theme"
+msgstr ""
+
+#: main.php:895
+msgid "Position for buttons"
+msgstr ""
+
+#: main.php:902
+msgid "Wait/Wish"
+msgstr ""
+
+#: main.php:905
+msgid "Before all"
+msgstr ""
+
+#: main.php:911
+msgid "After image"
+msgstr ""
+
+#: main.php:917
+msgid "After title"
+msgstr ""
+
+#: main.php:923
+msgid "After price"
+msgstr ""
+
+#: main.php:929
+msgid "After add to cart button"
+msgstr ""
+
+#: main.php:935
+msgid "Single product page"
+msgstr ""
+
+#: main.php:963
+msgid "Special variables for Email subject and message fields"
+msgstr ""
+
+#: main.php:966
+msgid "Product title"
+msgstr ""
+
+#: main.php:967
+msgid "Link to product page"
+msgstr ""
+
+#: main.php:968
+msgid "Main product image link"
+msgstr ""
+
+#: main.php:969
+msgid "Product formated price"
+msgstr ""
+
+#: main.php:970
+msgid "Product description"
+msgstr ""
+
+#: main.php:971
+msgid "Product short description"
+msgstr ""
+
+#: main.php:973
+msgid "User ID"
+msgstr ""
+
+#: main.php:974
+msgid "User First Name"
+msgstr ""
+
+#: main.php:975
+msgid "User Last Name"
+msgstr ""
+
+#: main.php:976
+msgid "User Email"
+msgstr ""
+
+#: main.php:977
+msgid "User Display Name"
+msgstr ""
+
+#: templates/style_section.php:2
+msgid "Buttons styles"
+msgstr ""
+
+#: templates/style_section.php:6
+msgid "Button"
+msgstr ""
+
+#: templates/style_section.php:7
+msgid "Button on mouse over"
+msgstr ""
+
+#: templates/style_section.php:8
+msgid "Selected button"
+msgstr ""
+
+#: templates/style_section.php:9
+msgid "Selected button on mouse over"
+msgstr ""
+
+#: templates/style_section.php:14 templates/style_section.php:138
+msgid "Font size"
+msgstr ""
+
+#: templates/style_section.php:15 templates/style_section.php:139
+msgid "Font color"
+msgstr ""
+
+#: templates/style_section.php:16 templates/style_section.php:140
+msgid "Background color"
+msgstr ""
+
+#: templates/style_section.php:17 templates/style_section.php:141
+msgid "Border width"
+msgstr ""
+
+#: templates/style_section.php:18 templates/style_section.php:142
+msgid "Border color"
+msgstr ""
+
+#: templates/style_section.php:19 templates/style_section.php:143
+msgid "Border radius"
+msgstr ""
+
+#: templates/style_section.php:20 templates/style_section.php:69
+#: templates/style_section.php:144
+msgid "Width"
+msgstr ""
+
+#: templates/style_section.php:21 templates/style_section.php:145
+msgid "Height"
+msgstr ""
+
+#: templates/style_section.php:22 templates/style_section.php:70
+#: templates/style_section.php:147
+msgid "Padding from top inside button"
+msgstr ""
+
+#: templates/style_section.php:23 templates/style_section.php:71
+msgid "Padding from bottom inside button"
+msgstr ""
+
+#: templates/style_section.php:24 templates/style_section.php:72
+#: templates/style_section.php:149
+msgid "Padding from left inside button"
+msgstr ""
+
+#: templates/style_section.php:25 templates/style_section.php:73
+#: templates/style_section.php:150
+msgid "Padding from right inside button"
+msgstr ""
+
+#: templates/style_section.php:55 templates/style_section.php:107
+msgid "Reset Button Styles to Default"
+msgstr ""
+
+#: templates/style_section.php:59
+msgid "Wish/Wait Twin Buttons Style"
+msgstr ""
+
+#: templates/style_section.php:63
+msgid "First Button"
+msgstr ""
+
+#: templates/style_section.php:64
+msgid "Last Button"
+msgstr ""
+
+#: templates/style_section.php:74 templates/style_section.php:151
+msgid "Margin from top"
+msgstr ""
+
+#: templates/style_section.php:75 templates/style_section.php:152
+msgid "Margin from bottom"
+msgstr ""
+
+#: templates/style_section.php:76 templates/style_section.php:153
+msgid "Margin from left"
+msgstr ""
+
+#: templates/style_section.php:77 templates/style_section.php:154
+msgid "Margin from right"
+msgstr ""
+
+#: templates/style_section.php:113
+msgid "Wish list styles"
+msgstr ""
+
+#: templates/style_section.php:113
+msgid "Wait list styles"
+msgstr ""
+
+#: templates/style_section.php:117
+msgid "Products block"
+msgstr ""
+
+#: templates/style_section.php:118
+msgid "Product block"
+msgstr ""
+
+#: templates/style_section.php:119
+msgid "Product name"
+msgstr ""
+
+#: templates/style_section.php:120
+msgid "Product name on mouse over"
+msgstr ""
+
+#: templates/style_section.php:121
+msgid "Price"
+msgstr ""
+
+#: templates/style_section.php:122
+msgid "Out of stock"
+msgstr ""
+
+#: templates/style_section.php:123
+msgid "Remove button"
+msgstr ""
+
+#: templates/style_section.php:124
+msgid "Remove button on mouse over"
+msgstr ""
+
+#: templates/style_section.php:146
+msgid "Maximum height"
+msgstr ""
+
+#: templates/style_section.php:148
+msgid "Padding from bottom inside"
+msgstr ""
+
+#: templates/style_section.php:182
+msgid "Reset Wish List Styles to Default"
+msgstr ""
+
+#: templates/style_section.php:182
+msgid "Reset Wait List Styles to Default"
+msgstr ""
+
+#: includes/widget.php:74
+msgid "Product type:"
+msgstr ""
+
+#: includes/widget.php:78
+msgid "Top products from wait list"
+msgstr ""
+
+#: includes/widget.php:79
+msgid "Top products from wish list"
+msgstr ""
+
+#: includes/widget.php:80
+msgid "Related products from user wait list"
+msgstr ""
+
+#: includes/widget.php:81
+msgid "Related products from user wish list"
+msgstr ""
+
+#: includes/widget.php:82
+msgid "Products in user wait list in stock"
+msgstr ""
+
+#: includes/widget.php:83
+msgid "Products in user wish list on sale"
+msgstr ""
+
+#: includes/widget.php:92
+msgid "Type:"
+msgstr ""
+
+#: includes/widget.php:96
+msgid "Default"
+msgstr ""
+
+#: includes/widget.php:97
+msgid "Image"
+msgstr ""
+
+#: includes/widget.php:112
+msgid "Products per line:"
+msgstr ""
+
+#: includes/widget.php:116
+msgid "Show Add to cart button:"
+msgstr ""
+
+#: includes/widget.php:120
+msgid "Products count:"
+msgstr ""
+
+#: includes/compatibility/product_preview.php:10
+msgid "<strong>BeRocket</strong> Wish Button"
+msgstr ""
+
+#: includes/compatibility/product_preview.php:11
+msgid "<strong>BeRocket</strong> Wait Button"
+msgstr ""
+
+#: includes/compatibility/product_preview.php:12
+msgid "<strong>BeRocket</strong> Wish/Wait Button"
+msgstr ""
+
+#. Description of the plugin
+msgid "Plugin for WooCommerce which create wish list and wait list"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://berocket.com/product/woocommerce-wish-wait-list"
+msgstr ""
+
+#. Author of the plugin
+msgid "BeRocket"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://berocket.com"
+msgstr ""
